@@ -1,3 +1,10 @@
+### Start
+
+```
+yarn start:front
+yarn start:api
+```
+
 ### Add new dependencies
 
 ```
